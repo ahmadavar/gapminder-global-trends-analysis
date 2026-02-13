@@ -606,7 +606,7 @@ These projects provided valuable structural inspiration and demonstrated the edu
 
 ## About the Author
 
-**Ahmad Avar**
+**Ahmad Naggayev / Avar**
 Data Analyst | Financial Modeling | Python Developer
 
 **Code the Dream:** 15-Week Advanced Python Program Graduate
@@ -614,7 +614,7 @@ Data Analyst | Financial Modeling | Python Developer
 ### Connect
 
 - **GitHub:** [github.com/ahmadavar](https://github.com/ahmadavar)
-- **LinkedIn:** [linkedin.com/in/ahmadavar](https://linkedin.com/in/ahmadavar)
+- **LinkedIn:** [linkedin.com/in/ahmadavar](https://linkedin.com/in/ahmadnaggayev)
 - **Portfolio:** [Additional projects on GitHub]
 
 ---
